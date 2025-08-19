@@ -1,11 +1,8 @@
-#include <stdio.h>
-
-void multstore(long a, long b, long *c) { *c = a * b; }
+void multstore(long a, long b, long *c);
 
 int main() {
   long d = 1;
   multstore(2, 3, &d);
-  printf("2 * 3 --> %ld\n", d);
   return 0;
 }
 

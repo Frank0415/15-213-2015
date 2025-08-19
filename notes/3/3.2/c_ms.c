@@ -1,0 +1,1 @@
+void multstore(long a, long b, long *c) { *c = a * b; }
