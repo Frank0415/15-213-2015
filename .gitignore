@@ -55,3 +55,9 @@ dkms.conf
 *.dwo
 
 Books/CSAPP-3th-ZH-OCR.pdf
+notes/3/3.2/main
+notes/3/3.2/main-debug
+notes/7/7.1/verbose
+notes/8/8.2/fork_wait
+notes/8/8.2/waitpid
+notes/8/8.2/snooze
